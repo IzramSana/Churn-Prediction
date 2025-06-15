@@ -70,6 +70,8 @@ This dashboard was built as part of a **hackathon challenge** focusing on churn 
 | Top 10 Risk Customers    | List of most vulnerable customers with churn %        |
 | Feature Importance       | What drives churn?                                    |
 
+________________________________________________________________________________________
+
 
 💻 Installation & Usage
 Here’s a step-by-step guide to set up and run this project on your local machine:
@@ -95,6 +97,8 @@ streamlit run churn_gui.py
 
 
 
+______________________________________________________________________________________________
+
 🎯 Future Scope
 ✅ Add animations to the file uploader and graphs (Planned)
 
@@ -103,6 +107,9 @@ streamlit run churn_gui.py
 🔐 Add login/authentication for secure dashboard access
 
 🧠 Improve model with advanced hyperparameter tuning
+
+______________________________________________________________________________________________
+
 
 📬 Contact:
 
