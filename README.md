@@ -3,6 +3,9 @@
 A **machine learning-powered dashboard** to **predict customer churn** in telecom companies. Upload customer data, generate predictions, and explore interactive visualizations to identify **high-risk customers**.
 
 ---
+Video presentation link:
+
+PPT link:
 
 ## 🌟 Why This Project?
 
@@ -66,6 +69,31 @@ This dashboard was built as part of a **hackathon challenge** focusing on churn 
 | Tech Support Impact      | Customers without tech support → More likely to churn |
 | Top 10 Risk Customers    | List of most vulnerable customers with churn %        |
 | Feature Importance       | What drives churn?                                    |
+
+
+💻 Installation & Usage
+Here’s a step-by-step guide to set up and run this project on your local machine:
+
+1️⃣ Clone the Repository
+First, you need to copy (clone) the repository to your computer:
+
+git clone https://github.com/yourusername/churn-prediction-dashboard.git
+cd churn-prediction-dashboard
+
+2️⃣ Install Required Libraries
+Now, install all necessary Python libraries using:
+
+pip install -r requirements.txt
+
+📌 Note:
+Make sure Python and pip are installed on your computer before running this command.
+
+3️⃣ Run the Dashboard Locally
+After installing the libraries, start the dashboard using:
+
+streamlit run churn_gui.py
+
+
 
 🎯 Future Scope
 ✅ Add animations to the file uploader and graphs (Planned)
