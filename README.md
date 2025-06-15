@@ -32,12 +32,15 @@ This dashboard was built as part of a **hackathon challenge** focusing on churn 
 
 ## 🗂️ Project Structure
 
-📁 churn-prediction-dashboard/
-├── churn_prediction_model.py # Train model locally
-├── churn_gui.py # Streamlit dashboard app
-├── d-2 train dataset.csv # Training dataset (private/local)
-├── d-2 test dataset.csv # Example test dataset (private/local)
-└── Churn Prediction Dashboard final.pdf # Presentation/report of the project
+📁 churn-prediction-dashboard
+
+ churn_prediction_model.py # Train model locally
+ churn_gui.py # Streamlit dashboard app
+ d-2 train dataset.csv # Training dataset (private/local)
+ d-2 test dataset.csv # Example test dataset (private/local)
+ Churn Prediction Dashboard final.pdf # Presentation/report of the project
+
+📤 Example CSV Format
 
 | MonthlyCharges | TotalCharges | Contract       | TechSupport | tenure | DeviceProtection | ... |
 | -------------- | ------------ | -------------- | ----------- | ------ | ---------------- | --- |
