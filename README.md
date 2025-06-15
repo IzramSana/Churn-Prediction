@@ -46,12 +46,14 @@ This dashboard was built as part of a **hackathon challenge** focusing on churn 
 | -------------- | ------------ | -------------- | ----------- | ------ | ---------------- | --- |
 | 65.5           | 4500         | Month-to-month | No          | 22     | Yes              | ... |
 
+## 🤖 Machine Learning Model Details
 
-🤖 Machine Learning Model Details
-Property	        Details
-Algorithm       	Random Forest Classifier
-Preprocessing	    Label Encoding for categorical features, Standard Scaler for numerical features
-Metrics         	AUC-ROC ≈ 0.84 (Good Performance)
+| **Property**     | **Details**                                                                     |
+|------------------|-------------------------------------------------------------------------------- |
+| **Algorithm**    | Random Forest Classifier                                                        |
+| **Preprocessing**| Label Encoding for categorical features, Standard Scaler for numerical features |
+| **Metrics**      | AUC-ROC ≈ 0.84 (Good Performance)                                               |
+
 
 📊 Visualizations Included
 
