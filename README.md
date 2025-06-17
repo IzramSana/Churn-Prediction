@@ -3,9 +3,7 @@
 A **machine learning-powered dashboard** to **predict customer churn** in telecom companies. Upload customer data, generate predictions, and explore interactive visualizations to identify **high-risk customers**.
 
 ---
-Video presentation link:
 
-PPT link:
 
 ## 🌟 Why This Project?
 
